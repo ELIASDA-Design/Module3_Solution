@@ -1,0 +1,54 @@
+#my_navbar {
+    background-color: burlywood;
+}
+
+article.main_article {
+    font-size: 1.5vw;
+    margin: 1vw;
+    position: relative;
+}
+
+.navbar-nav li {
+    border: 1px solid black;
+}
+
+#My_Nav_Div ul {
+    background-color: brown;
+    padding: 0px;
+    width: 100%;
+}
+
+#our_menu_header {
+    font-size: 3vw;
+    font-weight: bold;
+    margin-bottom: 3vw;
+}
+
+h3.section-header {
+    font-size: 2vw;
+    font-weight: bold;
+}
+
+div.row {
+    margin: 0 1.5vw 0 1.5vw;
+}
+
+div.article_link {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+section {
+    border: 1px solid black;
+    background-color: cornflowerblue;
+    /*margin: 2vw;*/
+}
+
+.col-lg-4,
+.col-md-6,
+.col-sm-12,
+.col-xs-12 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
